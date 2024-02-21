@@ -1,0 +1,17 @@
+{
+  "name": "mackgpt",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <img src=\"https://mackgpt.com/banner.png\"/> </p> <p align=\"center\">   <em>🤖 Create, customize, and launch autonomous AI Agents in your browser. 🤖 </em> </p> <p align=\"center\">     <img alt=\"Node version\" src=\"https://img.shields.io/static/v1?label=node&message=%20%3E=16.0.0&logo=node.js&color=2334D058\" />       <a href=\"https://github.com/alexk1919/MackGPT/blob/main/README.md\"><img src=\"https://img.shields.io/badge/lang-English-blue.svg\" alt=\"English\"></a> </p>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.1.0"
+  }
+}
